@@ -21,3 +21,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Assignment brief (not part of the submission source)
+Assignement Chapter 3.pdf
